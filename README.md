@@ -1,6 +1,6 @@
 # JavaScript en práctica
 
-## Descripción
+## Descripción 
 En tus tareas como desarrollador/a no sólo tendrás que escribir código desde 0, sino que muchas veces tendrás que completar tareas junto con tu equipo de trabajo, colaborando con las habilidades que cada uno posee para construir el proyecto solicitado.
 En uno de los proyectos que se están trabajando en la empresa, ya se ha resuelto el código HTML por un integrante del equipo de trabajo, y te solicitan incluir la lógica de JavaScript para terminar los requerimientos.
 En el siguiente desafío pondremos en práctica el uso de listener y selectores para manipular los elementos del DOM, ya sea para cambiar sus estilos o añadir mensajes informativos para el usuario a la hora de completar un formulario que permitan validar de manera rápida y sencilla los datos ingresados por el usuario.
